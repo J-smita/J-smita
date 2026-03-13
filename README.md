@@ -30,4 +30,4 @@
 
 - 📧 Email: [jasmitasaha.3@gmail.com](mailto:jasmitasaha.3@gmail.com)  
 - 💻 GitHub: [J-smita](https://github.com/J-smita)  
-- 🌐 Portfolio: [https://lovable.ai](https://jasmita-profile.lovable.app))
+- 🌐 Portfolio: https://jasmita-profile.lovable.app
