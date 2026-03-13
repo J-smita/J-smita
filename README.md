@@ -10,12 +10,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech student at ICFAI University, Tripura  
-- 💻 Learning Python, Web Development, and AI  
-- 📚 Currently doing an internship at Mirai School of Technology  
-- 🏫 Previously completed an internship at NIELIT Agartala
+- 🎓 B.Tech student at ICFAI University, Tripura
+- 💻 Currently doing a data analytics course from CodeWithHarry 
+- 📚 Completed an online internship at Mirai School of Technology  
+- 🏫 Completed an internship at NIELIT Agartala
 - 🌱 Trying to improve every day and become confident!  
-- ✨ Interests: Python, OpenCV, hand gestures, and real-world AI projects  
+- ✨ Interests: Python, Data analytics and real-world AI projects  
 
 ---
 
