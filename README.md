@@ -13,8 +13,7 @@
 - 🎓 B.Tech student at ICFAI University, Tripura
 - 💻 Currently doing a data analytics course from CodeWithHarry 
 - 📚 Completed an online internship at Mirai School of Technology  
-- 🏫 Completed an internship at NIELIT Agartala
-- 🌱 Trying to improve every day and become confident!  
+- 🏫 Completed an internship at NIELIT Agartala 
 - ✨ Interests: Python, Data analytics and real-world AI projects  
 
 ---
