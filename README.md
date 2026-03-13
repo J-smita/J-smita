@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech student at ICFAI University, Tripura
+- 🎓 B.Tech student at ICFAI University, Tripura (2024-2028)
 - 💻 Currently doing a data analytics course from CodeWithHarry 
 - 📚 Completed an online internship at Mirai School of Technology  
 - 🏫 Completed an internship at NIELIT Agartala 
