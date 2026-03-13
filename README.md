@@ -24,15 +24,6 @@
 - HTML
 - GitHub
 
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-smita&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-smita" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
