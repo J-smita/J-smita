@@ -19,10 +19,11 @@
 ---
 
 ## 💡 Languages & Tools  
-Python
-C (basic)
-HTML
-GitHub
+- Python
+- C (basic)  
+- HTML
+- GitHub
+
 
 ---
 
